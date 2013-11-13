@@ -76,6 +76,6 @@ while True:
         print "Temperature: ", temp
         print "Humidity: ", humidity
         print ""
- 
+
         # hang out and do nothing for a second
         time.sleep(1)
